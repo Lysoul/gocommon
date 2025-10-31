@@ -1,4 +1,4 @@
-module github.com/Lysoul/common/monitoring
+module github.com/Lysoul/gocommon/monitoring
 
 go 1.25
 

@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/Lysoul/common/monitoring"
+	"github.com/Lysoul/gocommon/monitoring"
 )
 
 func TestHealthCheck(t *testing.T) {
