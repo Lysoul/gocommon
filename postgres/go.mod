@@ -8,7 +8,7 @@ replace github.com/Lysoul/gocommon/monitoring => ../monitoring
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.2
-	github.com/Lysoul/gocommon/monitoring v1.3.1-0.20250214081706-f530062e31fe
+	github.com/Lysoul/gocommon/monitoring v0.0.0-20251103044100-0e3bd6d6a99a
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/stretchr/testify v1.11.1
 	github.com/uptrace/bun v1.2.15
