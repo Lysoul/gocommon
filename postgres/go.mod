@@ -1,4 +1,4 @@
-module github.com/Lysoul/common/postgres
+module github.com/Lysoul/gocommon/postgres
 
 go 1.25
 

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Lysoul/common/postgres"
+	"github.com/Lysoul/gocommon/postgres"
 	"github.com/alexlast/bunzap"
 	"github.com/stretchr/testify/assert"
 	"github.com/uptrace/bun"
