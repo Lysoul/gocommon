@@ -10,8 +10,6 @@ replace (
 )
 
 require (
-	github.com/Lysoul/gocommon/monitoring v0.5.0
-	github.com/Lysoul/gocommon/shared v0.5.0
 	github.com/gin-contrib/cors v1.7.3
 	github.com/gin-contrib/zap v1.1.4
 	github.com/gin-gonic/gin v1.10.0
@@ -21,6 +19,8 @@ require (
 )
 
 require (
+	github.com/Lysoul/gocommon/monitoring v0.0.0-20251104100821-c56891e40c82 // indirect
+	github.com/Lysoul/gocommon/shared v0.0.0-20251104100821-c56891e40c82 // indirect
 	github.com/bytedance/sonic/loader v0.2.1 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
 	github.com/cloudwego/base64x v0.1.4 // indirect
