@@ -10,8 +10,8 @@ replace (
 )
 
 require (
-	github.com/Lysoul/gocommon/monitoring v0.0.0-00010101000000-000000000000
-	github.com/Lysoul/gocommon/shared v0.0.0-00010101000000-000000000000
+	github.com/Lysoul/gocommon/monitoring v0.5.0
+	github.com/Lysoul/gocommon/shared v0.5.0
 	github.com/gin-contrib/cors v1.7.3
 	github.com/gin-contrib/zap v1.1.4
 	github.com/gin-gonic/gin v1.10.0
