@@ -24,7 +24,7 @@ import (
 //   - see https://bun.uptrace.dev/postgres/#pgdriver
 type Config struct {
 	URL     string `envconfig:"POSTGRES_URL" required:"true"`
-	Migrate bool   `envconfig:"POSTGRES_MIGRTATE"`
+	Migrate bool   `envconfig:"POSTGRES_MIGRATE"`
 	Debug   bool   `envconfig:"POSTGRES_DEBUG" default:"true"`
 	// default to 4 * runtime.NumCPU
 	MaxOpenConns int `envconfig:"POSTGRES_MAX_OPEN_CONNS"`
